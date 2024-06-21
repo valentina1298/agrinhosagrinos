@@ -48,3 +48,18 @@ img{
     text-align: center;
     padding: 20px 0;
  }
+
+ .foto-equipe{
+    width: 50%;
+ }
+
+ header a{
+   color: white;
+    text-decoration: none;
+    background-color: pink;
+    padding: 0 12px;
+ }
+ 
+ .footer{
+   background-color: pink;
+ }
