@@ -84,6 +84,14 @@ img{
  text-align: right;
   }
 
+  .fot3{
+    display:grid;
+ grid-template-columns: 20% 50% 30%;
+ justify-items: center;
+ text-align: right;
+  }
+
+
   .primeirojogo{
     width: 53%;
     border: 12px solid blue;
