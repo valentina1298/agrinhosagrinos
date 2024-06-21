@@ -76,4 +76,13 @@ img{
  justify-items: center;
  text-align: right;
   }
+
+  .primeirojogo{
+    width: 53%;
+    border: 12px solid blue;
+ }
+ .segundojogo{
+    width: 53%;
+    border: 12px solid blue;
+ }
  
