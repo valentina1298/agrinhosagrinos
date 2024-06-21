@@ -49,6 +49,13 @@ img{
     padding: 20px 0;
  }
 
+ #agrinho{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
+    padding: 20px 0;
+ }
+
  .foto-equipe{
     width: 50%;
  }
