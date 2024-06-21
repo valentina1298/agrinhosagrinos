@@ -54,14 +54,14 @@ img{
  }
 
  header a{
-   color: white;
+   color: rgb(0, 0, 0);
     text-decoration: none;
-    background-color: rgb(107, 222, 151);
+    background-color:rgb(241, 241, 217) ;
     padding: 0 12px;
  }
  
  .footer{
-   background-color: rgb(138, 209, 131);
+   background-color: rgb(196, 217, 194);
  }
 
  .foto1{
