@@ -13,3 +13,13 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--texto);
 }
+img{
+    width: 10%;
+
+}
+
+
+ header{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 70% 30%;
