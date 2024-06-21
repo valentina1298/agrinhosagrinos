@@ -25,3 +25,26 @@ img{
     grid-template-columns: 70% 30%;
 
  }
+
+ .img-intro{
+    width: 20%;
+    
+ }
+
+ .bot{
+    display: flex;
+    justify-content: space-evenly;
+ 
+  }
+  .intro{
+     display: flex;
+     border: 4px solid #e5f4f9;
+     border-radius: 30px;
+  }
+
+  #equipe{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
+    padding: 20px 0;
+ }
