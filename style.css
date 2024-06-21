@@ -6,3 +6,10 @@
     --cor-de-fundo:#3ac672;
     --texto: #ffffff;
 }
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-feature-settings: "auto";
+    font-weight: 400;
+    background-color: var(--cor-de-fundo);
+    color: var(--texto);
+}
