@@ -4,7 +4,7 @@
 
     /* root é a caixinha de variáveis */
     --cor-de-fundo:#f3f3f3;
-    --texto: #ffffff;
+    --texto: #000000;
 }
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
