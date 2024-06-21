@@ -56,10 +56,10 @@ img{
  header a{
    color: white;
     text-decoration: none;
-    background-color: pink;
+    background-color: rgb(107, 222, 151);
     padding: 0 12px;
  }
  
  .footer{
-   background-color: pink;
+   background-color: rgb(138, 209, 131);
  }
