@@ -23,6 +23,7 @@ img{
     display: grid;
     align-items: center;
     grid-template-columns: 70% 30%;
+   
 
  }
 
@@ -84,7 +85,12 @@ img{
  text-align: right;
   }
 
-
+  .foto3{
+   display:grid;
+grid-template-columns: 20% 50% 30%;
+justify-items: center;
+text-align: right;
+ }
 
 
 
