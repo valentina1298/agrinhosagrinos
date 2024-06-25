@@ -91,6 +91,38 @@ img{
  text-align: right;
   }
 
+  .foto4{
+   display:grid;
+grid-template-columns: 20% 50% 30%;
+justify-items: center;
+ }
+
+ .foto5{
+   display:grid;
+grid-template-columns: 20% 50% 30%;
+justify-items: center;
+ }
+
+ .foto6{
+   display:grid;
+grid-template-columns: 20% 50% 30%;
+justify-items: center;
+ }
+
+ .foto7{
+   display:grid;
+grid-template-columns: 20% 50% 30%;
+justify-items: center;
+ }
+
+ .foto8{
+   display:grid;
+grid-template-columns: 20% 50% 30%;
+justify-items: center;
+ }
+
+
+
 
   .primeirojogo{
     width: 53%;
