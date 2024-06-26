@@ -212,3 +212,13 @@ título3{
  font-style: italic;
    
 }
+
+.sumário{
+   position: relative;
+   display: inline-block;
+   text-align: center;
+   font-family: "Inter", sans-serif;
+     font-optical-sizing: auto;
+   font-weight: 240;
+   font-style: italic;
+ }
