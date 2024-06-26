@@ -1,105 +1,290 @@
 @import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&family=Sevillana&display=swap');
 
-    :root{
-
-    /* root é a caixinha de variáveis */
-    --cor-de-fundo:#f3f3f3;
-    --texto: #000000;
-}
 body{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-feature-settings: "auto";
-    font-weight: 400;
-    background-color: var(--cor-de-fundo);
-    color: var(--texto);
+   color: white;
+   padding: 10px;
 }
-img{
-    width: 20%;
-
+.topo{
+   display: flex;
+    padding: 1px 20px;
+    background-color: #3AC672;
 }
 
+.texo{
+   position: absolute;
+   right: 440px;
+   padding: 25px;
+   font-size: x-large;
+   color: black;
+   font-family: "Inter", sans-serif;
+   text-decoration: underline;
+}
+.texto{
+   position: absolute;
+   right: 365px;
+   padding: 25px;
+   font-size: x-large;
+   color: black;
+   font-family: "Inter", sans-serif;
+   text-decoration: underline;
+}
+.logo{
+   width: 13%;
+}
 
- header{
-    display: grid;
-    align-items: center;
-    grid-template-columns: 70% 30%;
-   
+.título{
+   text-align: center;
+   padding: 40px;
+   color: black;
+   font-family: "Inter", sans-serif;
+   font-style: italic;
+}
 
- }
+.mato1{
+   display: flex;
+}
 
- .img-intro{
-    width: 20%;
-    
- }
+.mato2{
+   display: flex;
+   padding: 100px 10px;
+}
 
- .bot{
-    display: flex;
-    justify-content: space-evenly;
- 
-  }
-  .intro{
+.mato3{
+   display: flex;
+}
+
+.mato4{
+   display: flex;
+   padding: 100px 10px;
+}
+
+.ma{
+   width: 36%;
+   height: 2%;
+   padding: 19px 42px;
+   background-color: #DEF5DE;
+   }
+
+   .mato5{
+       display: flex;
+    }
+
+    .mato6{
+       display: flex;
+       padding: 100px 10px;
+    }
+
+    .mato7{
+       display: flex;
+    }
+
+    .mato8{
+       display: flex;
+       padding: 100px 10px;
+    }
+
+    .mato9{
      display: flex;
-     border: 4px solid #059dcf;
-     border-radius: 30px;
   }
 
-  #equipe{
-    display: grid;
-    grid-template-columns: 33% 33% 33%;
-    text-align: center;
-    padding: 20px 0;
- }
+.color{
+   color: black;
+   padding: 73px 1px;
+   text-align: center;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ font-weight: 240;
+ font-style: italic;
 
- #agrinho{
-    display: grid;
-    grid-template-columns: 33% 33% 33%;
-    text-align: center;
-    padding: 20px 0;
- }
+}
 
- .foto-equipe{
-    width: 50%;
- }
+.título2{
+   display: flex;
+   padding: 10px;
+   color: black;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ font-weight: 400;
+ position: absolute;
+   padding: 8% 15%;
+}
 
- header a{
-   color: rgb(0, 0, 0);
-    text-decoration: none;
-    background-color:rgb(241, 241, 217) ;
-    padding: 0 12px;
- }
- 
- .footer{
-   background-color: rgb(196, 217, 194);
- }
+.título3{
+   display: flex;
+   padding: 10px;
+   color: black;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ font-weight: 400;
+ position: absolute;
+ padding: 0% 62%;
+ text-align: center;
+}
 
- .foto1{
-    display:grid;
- grid-template-columns: 20% 50% 30%;
- justify-items: center;
-  }
+.título4{
+   display: flex;
+   padding: 10px;
+   color: black;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ font-weight: 400;
+ position: absolute;
+ padding: 8% 16%;
+ text-align: center;
+}
 
-  .fot2{
-    display:grid;
- grid-template-columns: 20% 50% 30%;
- justify-items: center;
- text-align: right;
-  }
+.título5{
+   display: flex;
+   padding: 10px;
+   color: black;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ font-weight: 400;
+ position: absolute;
+ padding: 0% 64%;
+ text-align: center;
+}
 
-  .foto3{
-   display:grid;
-grid-template-columns: 20% 50% 30%;
-justify-items: center;
-text-align: right;
- }
+.título6{
+   display: flex;
+   padding: 10px;
+   color: black;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ font-weight: 400;
+ position: absolute;
+ padding: 8% 23%;
+ text-align: center;
+}
 
+.título7{
+   display: flex;
+   padding: 10px;
+   color: black;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ font-weight: 400;
+ position: absolute;
+ padding: 0% 64%;
+ text-align: center;
+}
 
+.título8{
+   display: flex;
+   padding: 10px;
+   color: black;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ font-weight: 400;
+ position: absolute;
+ padding: 6% 63%;
+ text-align: center;
+}
 
-  .primeirojogo{
-    width: 53%;
-    border: 12px solid blue;
- }
- .segundojogo{
-    width: 53%;
-    border: 12px solid blue;
- }
- 
+.título9{
+ display: flex;
+   padding: 10px;
+   color: black;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ font-weight: 400;
+ position: absolute;
+ padding: 2% 23%;
+ text-align: center;
+}
+
+.resu{
+   display: flex;
+   padding: 0% 1%;
+   color: black;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ position: absolute;
+ text-align: center;
+  
+}
+
+.resu2{
+   color: black;
+   text-align: center;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ font-weight: 240;
+ font-style: italic;
+   
+}
+
+.sumário{
+ position: relative;
+ display: inline-block;
+ text-align: center;
+ font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ font-weight: 240;
+ font-style: italic;
+}
+.e{
+ color: black;
+ position: absolute;
+ top: 2%;
+ left: 50%;
+ transform: translate(-12%,-50%);
+ font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+}
+
+.t1{
+ color: black;
+ position: absolute;
+ top: 18%;
+ left: 50%;
+ transform: translate(-18%,-50%);
+}
+
+.t2{
+ color: black;
+ position: absolute;
+ top: 32%;
+ left: 50%;
+ transform: translate(-18%,-50%);
+}
+
+.t3{
+ color: black;
+ position: absolute;
+ top: 45%;
+ left: 50%;
+ transform: translate(-18%,-50%);
+}
+
+.t4{
+ color: black;
+ position: absolute;
+ top: 61%;
+ left: 50%;
+ transform: translate(-18%,-50%);
+}
+
+.t5{
+ color: black;
+ position: absolute;
+ top: 81%;
+ left: 50%;
+ transform: translate(-18%,-50%);
+}
+
+.ret{
+ width: 130%
+}
+
+.fim{
+ display: flex;
+    padding: 1px 20px;
+    background-color: #3AC672;
+    position: relative;
+   bottom: -235px;
+}
+
+.logofim{
+ padding: 0% 44%;
+}
