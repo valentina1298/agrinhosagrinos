@@ -4,3 +4,18 @@ body{
    color: white;
    padding: 10px;
 }
+topo{
+   display: flex;
+    padding: 1px 20px;
+    background-color: #3AC672;
+}
+
+.texo{
+   position: absolute;
+   right: 440px;
+   padding: 25px;
+   font-size: x-large;
+   color: black;
+   font-family: "Inter", sans-serif;
+   text-decoration: underline;
+}
