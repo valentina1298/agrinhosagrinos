@@ -191,3 +191,14 @@ título3{
    padding: 2% 23%;
    text-align: center;
  }
+
+ .resu{
+   display: flex;
+   padding: 0% 1%;
+   color: black;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ position: absolute;
+ text-align: center;
+  
+}
