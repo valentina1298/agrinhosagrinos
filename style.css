@@ -57,9 +57,15 @@ topo{
    display: flex;
    padding: 100px 10px;
 }
+
 .ma{
    width: 36%;
    height: 2%;
    padding: 19px 42px;
    background-color: #DEF5DE;
    }
+
+   .mato5{
+      display: flex;
+   }
+
