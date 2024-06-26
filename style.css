@@ -131,3 +131,15 @@ título3{
  padding: 8% 16%;
  text-align: center;
 }
+
+.título5{
+   display: flex;
+   padding: 10px;
+   color: black;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+ font-weight: 400;
+ position: absolute;
+ padding: 0% 64%;
+ text-align: center;
+}
