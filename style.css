@@ -247,4 +247,12 @@ título3{
    left: 50%;
    transform: translate(-18%,-50%);
  }
+
+ .t3{
+   color: black;
+   position: absolute;
+   top: 45%;
+   left: 50%;
+   transform: translate(-18%,-50%);
+ }
  
