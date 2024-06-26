@@ -255,4 +255,13 @@ título3{
    left: 50%;
    transform: translate(-18%,-50%);
  }
+
+ .t4{
+   color: black;
+   position: absolute;
+   top: 61%;
+   left: 50%;
+   transform: translate(-18%,-50%);
+ }
+ 
  
