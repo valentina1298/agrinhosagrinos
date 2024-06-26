@@ -222,3 +222,13 @@ título3{
    font-weight: 240;
    font-style: italic;
  }
+ .e{
+   color: black;
+   position: absolute;
+   top: 2%;
+   left: 50%;
+   transform: translate(-12%,-50%);
+   font-family: "Inter", sans-serif;
+     font-optical-sizing: auto;
+ }
+ 
